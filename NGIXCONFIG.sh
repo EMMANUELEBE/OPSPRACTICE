@@ -9,7 +9,7 @@ sudo systemctl start nginx
 echo "NGINX SCRIP TIS RUNNUNH"
 sleep 1
 
-if [[ systemctyl is-active nginx ]]
+if (systemctyl is-active nginx )
 then
 echo  "lab directory is being created"
 sleep 1
